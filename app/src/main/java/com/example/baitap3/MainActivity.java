@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
     private int[] backgroundImages = {
             R.drawable.background1,
             R.drawable.background2,
-            R.drawable.bottom_btn1,
-            R.drawable.bottom_btn2
+            R.drawable.background3,
+            R.drawable.background4
     };
 
     @Override
